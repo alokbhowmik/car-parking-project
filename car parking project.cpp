@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-#define SIZE 5
+#define SIZE 50
 int bus=0;
 int rikshaw=0;
 int car=0;
